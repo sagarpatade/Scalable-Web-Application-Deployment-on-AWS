@@ -1,5 +1,8 @@
 # Scalable-Web-Application-Deployment-on-AWS
 
+![image](https://github.com/user-attachments/assets/97207181-8f48-41ec-9fee-fb25ebadc11f)
+
+
 
 Step 1: Create a VPC
 Go to VPC Dashboard
